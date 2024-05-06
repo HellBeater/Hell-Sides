@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Frame 10000" x="0" y="255" width="254" height="255" frameX="2" frameY="2" frameWidth="250" frameHeight="251"/>
+	<SubTexture name="Frame 20000" x="764" y="255" width="253" height="254" frameX="2" frameY="2" frameWidth="249" frameHeight="250"/>
+	<SubTexture name="Frame 30000" x="0" y="0" width="255" height="255" frameX="2" frameY="2" frameWidth="251" frameHeight="252"/>
+	<SubTexture name="Frame 40000" x="764" y="0" width="253" height="255" frameX="2" frameY="2" frameWidth="249" frameHeight="251"/>
+	<SubTexture name="Frame 50000" x="508" y="510" width="253" height="252" frameX="2" frameY="1" frameWidth="249" frameHeight="249"/>
+	<SubTexture name="Frame 60000" x="0" y="510" width="254" height="253" frameX="2" frameY="0" frameWidth="250" frameHeight="252"/>
+	<SubTexture name="Frame 70000" x="0" y="763" width="251" height="253" frameX="2" frameY="1" frameWidth="247" frameHeight="250"/>
+	<SubTexture name="Frame 80000" x="254" y="510" width="254" height="252" frameX="2" frameY="1" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="Frame 90000" x="761" y="510" width="253" height="252" frameX="2" frameY="1" frameWidth="249" frameHeight="249"/>
+	<SubTexture name="Frame 100000" x="0" y="1016" width="251" height="250" frameX="2" frameY="-3" frameWidth="247" frameHeight="252"/>
+	<SubTexture name="frame 110000" x="505" y="763" width="254" height="248" frameX="2" frameY="1" frameWidth="250" frameHeight="245"/>
+	<SubTexture name="Frame 120000" x="251" y="763" width="254" height="249" frameX="2" frameY="2" frameWidth="250" frameHeight="246"/>
+	<SubTexture name="Frame 130000" x="503" y="1016" width="251" height="249" frameX="2" frameY="-3" frameWidth="247" frameHeight="250"/>
+	<SubTexture name="Frame 140000" x="251" y="1016" width="252" height="249" frameX="2" frameY="-1" frameWidth="248" frameHeight="248"/>
+	<SubTexture name="Frame 150000" x="1017" y="0" width="250" height="251" frameX="2" frameY="-2" frameWidth="246" frameHeight="251"/>
+	<SubTexture name="Frame 160000" x="508" y="255" width="255" height="253" frameX="2" frameY="2" frameWidth="251" frameHeight="249"/>
+	<SubTexture name="Frame 170000" x="509" y="0" width="255" height="254" frameX="2" frameY="2" frameWidth="251" frameHeight="250"/>
+	<SubTexture name="Frame 180000" x="254" y="255" width="254" height="254" frameX="2" frameY="1" frameWidth="250" frameHeight="251"/>
+	<SubTexture name="Frame 190000" x="255" y="0" width="254" height="255" frameX="2" frameY="2" frameWidth="250" frameHeight="251"/>
+</TextureAtlas>
